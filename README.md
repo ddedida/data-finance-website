@@ -1,6 +1,4 @@
-# This is project for practice
-
-Tutorial Link: [CodeCommerce](https://www.youtube.com/watch?v=ZU-drSVodBw&t=108s&ab_channel=CodeCommerce).
+# Data Finance Website
 
 In the project directory, you can run:
 
