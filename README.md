@@ -1,6 +1,6 @@
 # Data Finance Website
 
-In the project directory, you can run:
+Hello👋. In the project directory, you can run:
 
 #### `npm install --legacy-peer-deps`
 then
